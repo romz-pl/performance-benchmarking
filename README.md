@@ -16,6 +16,7 @@
 + [Familiarity with SIMD or vectorization concepts](./vectorization-concepts.md)
 + [Experience designing automation frameworks](./automation-frameworks.md)
 + [Exposure to cross-platform development](./cross-platform.md)
++ [Understanding of system architecture](./system-architecture.md)
 
 
 ## Tools
