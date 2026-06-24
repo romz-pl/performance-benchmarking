@@ -1,4 +1,4 @@
-# Performance and benchmarking of CPU, GPU, memory, storage, and software layers
+# Performance and benchmarking
 
 
 ## Tools and systems
