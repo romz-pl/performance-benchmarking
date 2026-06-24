@@ -1,5 +1,10 @@
 # 6-Month Deliverable: Automation, Performance Characterization, and Root-Cause Analysis
 
+> [!NOTE]
+> 
+> "Within 6 months, begin delivering measurable improvements in automation, performance characterization, and root-cause analysis for targeted workloads."
+
+
 This milestone marks the transition from onboarding to active contribution. By the six-month point, AMD expects the engineer to move beyond understanding the existing environment and begin producing **tangible, measurable outcomes** across three interconnected domains.
 
 ---
