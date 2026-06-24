@@ -17,6 +17,7 @@
 + [Experience designing automation frameworks](./automation-frameworks.md)
 + [Exposure to cross-platform development](./cross-platform.md)
 + [Understanding of system architecture](./system-architecture.md)
++ [Experience with concurrent programming](./concurrent-programming.md)
 
 
 ## Tools
