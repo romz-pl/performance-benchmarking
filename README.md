@@ -19,6 +19,9 @@
 
 ## Preferred Experience
 + [Experience with Python, C++, or C#](./python.md)
++ [Background in system performance analysis](./system-performance.md)
+
+
 
 ## Job description
 + [AMD Lead Software Performance Engineer](./job-description.md)
