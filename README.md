@@ -3,5 +3,6 @@
 
 ## Tools and systems
 + [Overview of available tools](./overview.md)
-+ [Overview of uProf](./uprof.md)
++ [Overview of AMD uProf](./uprof.md)
++ [Overview of Intel VTune Profiler](./vtune.md)
 + [Performance analysis and optimization](./tool.md)
