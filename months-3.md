@@ -1,5 +1,9 @@
 # Understanding AMD's Benchmarking Environment in the First 90 Days
 
+> [!NOTE]
+> 
+> "Within the first 3 months, build a strong understanding of the existing benchmarking environment, core workloads, toolchains, and team priorities."
+
 This onboarding milestone sets the foundation for everything that follows in the role. Rather than delivering immediate output, the first three months are explicitly structured as a **deep discovery phase** — AMD is signalling that the benchmarking ecosystem is complex enough that even a senior engineer needs dedicated time to map it before acting on it.
 
 ## What "benchmarking environment" means here
