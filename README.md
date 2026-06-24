@@ -6,3 +6,4 @@
 + [Overview of AMD uProf](./uprof.md)
 + [Overview of Intel VTune Profiler](./vtune.md)
 + [Performance analysis and optimization](./tool.md)
++ [Hardware-aware optimization techniques](./hardware-aware.md)
