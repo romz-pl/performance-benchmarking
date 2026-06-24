@@ -5,6 +5,7 @@
 + [Experience with Python, C++, or C#](./python.md)
 + [Background in system performance analysis](./system-performance.md)
 + [Familiarity with SIMD or vectorization concepts](./vectorization-concepts.md)
++ [Experience designing automation frameworks](./automation-frameworks.md)
 
 
 
