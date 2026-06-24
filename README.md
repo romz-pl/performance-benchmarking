@@ -7,3 +7,6 @@
 + [Overview of Intel VTune Profiler](./vtune.md)
 + [Performance analysis and optimization](./tool.md)
 + [Hardware-aware optimization techniques](./hardware-aware.md)
+
+## Responsibility
++ [Within the first 3 months](./months-3.md)
