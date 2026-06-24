@@ -10,3 +10,6 @@
 
 ## Responsibility
 + [Within the first 3 months](./months-3.md)
+
+## Job description
++ [AMD Lead Software Performance Engineer](./job-description.md)
