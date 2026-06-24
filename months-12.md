@@ -1,5 +1,9 @@
 # First-Year Milestone: Shaping AMD's Long-Term Performance Leadership
 
+> [!NOTE]
+> 
+> "Within the first year, help shape scalable infrastructure and benchmarking strategy, expand cross-team influence, and contribute to long-term performance leadership across AMD platforms."
+
 ## Overview
 
 By the end of the first year, the expectation shifts from *learning and delivering* to *leading and defining*. This milestone marks the transition from a contributor executing within an existing system to an engineer who actively shapes how AMD measures, understands, and improves platform performance at scale. It is the cumulative payoff of the ramp-up phases in months one through six.
