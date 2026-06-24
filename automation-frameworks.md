@@ -1,4 +1,4 @@
-# Experience Designing Automation Frameworks and Benchmarking Systems at Scale
+# Experience Designing Automation Frameworks
 
 > [!NOTE]
 > 
