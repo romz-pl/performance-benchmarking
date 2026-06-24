@@ -1,0 +1,23 @@
+# Understanding AMD's Benchmarking Environment in the First 90 Days
+
+This onboarding milestone sets the foundation for everything that follows in the role. Rather than delivering immediate output, the first three months are explicitly structured as a **deep discovery phase** — AMD is signalling that the benchmarking ecosystem is complex enough that even a senior engineer needs dedicated time to map it before acting on it.
+
+## What "benchmarking environment" means here
+
+AMD's performance engineering stack spans multiple hardware domains — CPU, GPU, NPU, memory, and storage — each with its own profiling tools (uProf, VTune, WPA), test harnesses, and data pipelines. Understanding the environment means knowing how these systems interconnect: how a workload is submitted, how results are captured and stored, how regressions are detected, and where the toolchain is fragile or underinstrumented.
+
+## What "core workloads" entails
+
+Workloads in this context are the benchmark suites and application proxies AMD uses to represent real-world compute behaviour — gaming titles, AI inference runs, HPC kernels, or industry-standard suites. Learning which workloads are canonical (i.e., actually drive product decisions) versus legacy or experimental is a non-trivial task that requires conversations with architecture, driver, and product teams, not just reading documentation.
+
+## What "toolchains" covers
+
+This includes the full chain from source to measurement: compilers, build systems, automation frameworks (likely Python-driven), CI/CD pipelines for performance regression testing, and any internal AMD tooling layered on top of open-source profilers. A lead engineer needs to understand not just how to use these tools, but where they break, what their blind spots are, and what technical debt has accumulated.
+
+## What "team priorities" signals
+
+This phrase is deliberate. Performance engineering teams typically juggle competing demands — pre-silicon validation, driver release cycles, competitive benchmarking, and long-term platform strategy. Understanding priorities means learning which fires are chronic versus acute, who the key internal stakeholders are (architecture, product management, compiler teams), and where a new senior hire can create the most leverage.
+
+## Why AMD frames this as a 3-month goal
+
+It reflects engineering maturity on AMD's part. Rushing a lead engineer into infrastructure changes before they understand the existing system is a common source of costly mistakes in performance work — optimising the wrong workload, breaking a pipeline that others depend on, or duplicating effort. The explicit 90-day window is an invitation to ask questions, read the codebase, shadow colleagues, and build the contextual knowledge that turns technical skill into organisational impact.
