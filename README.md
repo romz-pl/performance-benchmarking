@@ -1,12 +1,12 @@
 # Performance and benchmarking
 
 
-## Tools and systems
-+ [Overview of available tools](./overview.md)
-+ [Overview of AMD uProf](./uprof.md)
-+ [Overview of Intel VTune Profiler](./vtune.md)
-+ [Performance analysis and optimization](./tool.md)
-+ [Hardware-aware optimization techniques](./hardware-aware.md)
+## Preferred Experience
++ [Experience with Python, C++, or C#](./python.md)
++ [Background in system performance analysis](./system-performance.md)
++ [Familiarity with SIMD or vectorization concepts](./vectorization-concepts.md)
+
+
 
 ## Key Responsibility
 + [Lead the design and evolution](./lead-design.md)
@@ -17,9 +17,12 @@
 + [Within the first 12 months](./months-12.md)
 
 
-## Preferred Experience
-+ [Experience with Python, C++, or C#](./python.md)
-+ [Background in system performance analysis](./system-performance.md)
+## Tools and systems
++ [Overview of available tools](./overview.md)
++ [Overview of AMD uProf](./uprof.md)
++ [Overview of Intel VTune Profiler](./vtune.md)
++ [Performance analysis and optimization](./tool.md)
++ [Hardware-aware optimization techniques](./hardware-aware.md)
 
 
 
