@@ -9,6 +9,7 @@
 + [Hardware-aware optimization techniques](./hardware-aware.md)
 
 ## Responsibility
++ [Lead the design and evolution](./lead-design.md)
 + [Within the first 3 months](./months-3.md)
 + [Within the first 6 months](./months-6.md)
 + [Within the first 12 months](./months-12.md)
