@@ -1,8 +1,5 @@
 # AMD Lead Software Performance Engineer — Interview Q&A
 
-**Position:** Lead Software Performance Engineer, Warsaw  
-
----
 
 ## 1. Behavioural & Leadership
 
