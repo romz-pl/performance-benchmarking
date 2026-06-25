@@ -1,6 +1,7 @@
 # Performance and benchmarking
 
 + [AMD Benchmarking and Automation System](./doc/amd-system.md)
++ [Questions and answers](./doc/questions-answers.md)
 
 
 ## Key Responsibility
