@@ -28,6 +28,7 @@
 + [Overview of AMD uProf](./doc/uprof.md)
 + [Describe AMD uProf tool](./doc/uprof-tool.md)
 + [Overview of Intel VTune Profiler](./doc/vtune.md)
++ [Describe Intel VTune Profiler](./doc/vtune-tool.md)
 + [Performance analysis and optimization](./doc/tools.md)
 + [Hardware-aware optimization techniques](./doc/hardware-aware.md)
 
