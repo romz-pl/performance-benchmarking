@@ -42,3 +42,8 @@
 ## Job description
 + [AMD Lead Software Performance Engineer](./doc/job-description.md)
 + [Questions and answers](./doc/questions-answers.md)
+
+## External links
++ [AMD μProf](https://www.amd.com/en/developer/uprof.html)
++ [INTEL VTune Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html)
+  
