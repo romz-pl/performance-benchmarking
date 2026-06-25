@@ -1,7 +1,7 @@
 # Performance and benchmarking
 
 + [AMD Benchmarking and Automation System](./doc/amd-system.md)
-+ [Questions and answers](./doc/questions-answers.md)
+
 
 
 ## Key Responsibility
@@ -34,8 +34,10 @@
 
 ## Terminology
 + [Roofline Model and Arithmetic Intensity](./doc/roofline-model.md)
++ [Performance Monitoring Unit (PMU)](./doc/pmu.md)
 
 
 
 ## Job description
 + [AMD Lead Software Performance Engineer](./doc/job-description.md)
++ [Questions and answers](./doc/questions-answers.md)
