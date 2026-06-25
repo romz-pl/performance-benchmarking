@@ -35,6 +35,7 @@
 ## Terminology
 + [Roofline Model and Arithmetic Intensity](./doc/roofline-model.md)
 + [Performance Monitoring Unit (PMU)](./doc/pmu.md)
++ [Benchmarking and Automation](./doc/benchmarking.md)
 
 
 
