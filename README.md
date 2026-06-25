@@ -32,6 +32,9 @@
 + [Performance analysis and optimization](./doc/tools.md)
 + [Hardware-aware optimization techniques](./doc/hardware-aware.md)
 
+## Terminology
++ [Roofline Model and Arithmetic Intensity](./doc/roofline-model.md)
+
 
 
 ## Job description
