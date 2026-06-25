@@ -1,5 +1,7 @@
 # Performance and benchmarking
 
++ [AMD Benchmarking and Automation System](./doc/amd-system.md)
+
 
 ## Key Responsibility
 + [Lead the design and evolution](./doc/lead-design.md)
